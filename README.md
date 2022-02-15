@@ -1,7 +1,10 @@
 # Assignment7
 
 The purpose of this assignment is to get familiar with the structure of a Julia
-Project, implement a few functions, and run the tests.
+Project, implement a few functions, and run the tests.  I've recorded a YouTube video 
+that describes the expectations for this assignment
+
+https://youtu.be/1ho6PK8whD4
 
 In the `src` directory of the repository you will find a file called
 `assignment7.jl`.  Edit that file to complete the following tasks:
